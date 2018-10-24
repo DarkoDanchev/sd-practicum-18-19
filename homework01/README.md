@@ -6,7 +6,7 @@
 
 ```
 ;           start x, start y,width,height
-source.bmp (0      ,0       ,200  ,  200)      destination.bmp
+source.bmp (0      ,0       ,200  ,  200) destination.bmp
 ```
 
 където:
